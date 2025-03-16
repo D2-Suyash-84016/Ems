@@ -21,9 +21,9 @@ EmpManagementSystem is a web-based Employee Management System that allows users 
 
 ## 📸 Screenshots
 
-
+login  Page
 ![image](https://github.com/user-attachments/assets/22e1e8c8-39ca-49ea-b4dc-53dbcfbf6670)
-login 
+
 
 admin dashboard
 ![image](https://github.com/user-attachments/assets/f35b20bd-7ae6-4b25-80d8-26477cff98d7)
